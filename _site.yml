@@ -1,0 +1,21 @@
+name: "五十嵐公一のWebサイト"
+navbar: 
+  title: ""
+  left:
+    - text: "Home"
+      href: index.html
+    - text: ""
+      href: shumi.html
+
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    toc: true
+    toc_float:
+      collapse: false
+    df_print: "kable"
+    include:
+      after_body: footer.html
+    css: site_style.css
+output_dir: "docs"
