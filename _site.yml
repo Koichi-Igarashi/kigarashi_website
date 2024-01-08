@@ -6,6 +6,7 @@ navbar:
       href: index.html
     - text: "Research"
       href: kenkyu.html
+  right: 
     - text: "備忘録"
       href: bibouroku.html
 

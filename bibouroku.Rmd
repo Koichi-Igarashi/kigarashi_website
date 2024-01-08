@@ -7,8 +7,16 @@ title: "備忘録"
 ### トラッキングソフト
 
 -   AnimalTA: <https://doi.org/10.1111/2041-210X.14115>
--   DeepLabCut: \<\>
--   UMATrakcer: \<\>
+
+    メリット: GUIで使いやすい．マルチアリーナでのトラッキングができる．
+
+    デメリット: GUIなので，作業が再現しにくい．Win限定．
+
+-   DeepLabCut: \<\>\
+    \
+
+-   UMATrakcer: \<\>\
+    \
 
 ### 動画データの処理
 
@@ -19,27 +27,30 @@ title: "備忘録"
 ffmpeg -i input.mp4 output.avi
 ```
 
+\
+
 ### 幾何学的形態測定
 
 -   geomorph: <https://doi.org/10.1111/2041-210X.13723>
 
 -   tpsDIG: <https://www.sbmorphometrics.org/soft-dataacq.html>
 
-### 色の定量
-- <https://doi.org/10.1111/2041-210X.12439>
+###  色の定量
 
-### GIS関連
+-   <https://doi.org/10.1111/2041-210X.12439>
+
+###  GIS関連
 
 -   QGIS
 
-### 多様性指数
+###  多様性指数
 
-### Rパッケージ：SQuID
+###  Rパッケージ：SQuID
 
 <https://doi.org/10.1111/2041-210X.12659>
 
 <https://github.com/squidgroup/squid>
 
-### Rパッケージ：GLMM関連
+###  Rパッケージ：GLMM関連
 
-### Rパッケージ：作図関連
+###  Rパッケージ：作図関連
