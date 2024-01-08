@@ -1,5 +1,5 @@
 ---
-title: RでHTML生成
+title: 研究概要
 output:
   html_document:
     toc: false

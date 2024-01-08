@@ -6,7 +6,7 @@ title: 五十嵐 公一
 
 **Email:** igapi.xxx[at]gmail.com, igapi[at]hokudai.ac.jp
 
-[GoogleScholar][researchmap][[twitter]](https://twitter.com/igapije) [[researchgate]](https://www.researchgate.net/profile/Koichi-Igarashi-3) [[orchid]](https://orcid.org/0000-0002-3537-9239)
+[GoogleScholar][researchmap][[twitter]](https://twitter.com/igapije) [[researchgate]](https://www.researchgate.net/profile/Koichi-Igarashi-3) [[orchid]](https://orcid.org/0000-0002-3537-9239) [[github]](https://github.com/Koichi-Igarashi)
 
 ### Education
 
@@ -43,4 +43,4 @@ title: 五十嵐 公一
 
 ## News
 
-2024.01.05 ホームページを作成してみました．まだ未完成．
+2024.01.05 ホームページを作成してみました．まだ未完成

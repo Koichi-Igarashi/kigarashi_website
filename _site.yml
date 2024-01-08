@@ -4,8 +4,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: ""
-      href: shumi.html
+    - text: "Research"
+      href: kenkyu.html
+    - text: "備忘録"
+      href: bibouroku.html
 
 output:
   html_document:
