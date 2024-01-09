@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
+    - text: ""
       href: kenkyu.html
   right: 
     - text: "備忘録"
