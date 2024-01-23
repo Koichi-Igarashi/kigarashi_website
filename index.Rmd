@@ -8,14 +8,14 @@ title: 五十嵐 公一
 
 **学内アドレス**: igapi[at]hokudai.ac.jp
 
-[GoogleScholar][researchmap][[twitter]](https://twitter.com/igapije) [[researchgate]](https://www.researchgate.net/profile/Koichi-Igarashi-3) [[orchid]](https://orcid.org/0000-0002-3537-9239) [[github]](https://github.com/Koichi-Igarashi)
+[[GoogleScholar]] [[resrachmap]](https://researchmap.jp/igapijie) [[twitter]](https://twitter.com/igapije) [[researchgate]](https://www.researchgate.net/profile/Koichi-Igarashi-3) [[orchid]](https://orcid.org/0000-0002-3537-9239) [[github]](https://github.com/Koichi-Igarashi)
 
 **CV** [日本語]/[[English]](https://drive.google.com/file/d/1XdL0A5Qe0u0uUpyLZfPBGsuuAM_cjCgj/view?usp=drive_link)
 
 ### Education
 
 |               |      |                                                           |
-|---------------|---------------|------------------------------------------|
+|-------------|-------------|----------------------------------------------|
 | 2019.4-2023.3 | 学士 | 北海道大学 水産学部 海洋生物科学科                        |
 | 2023.4-       | 修士 | 北海道大学 水産科学院 海洋生物資源科学専攻 海洋生物学講座 |
 |               |      |                                                           |

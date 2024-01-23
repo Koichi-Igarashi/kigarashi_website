@@ -4,6 +4,25 @@ title: "備忘録"
 
 個人的なメモです．随時更新．
 
+### データの処理
+
+忘れるたびに検索していたので，スタックするたびにメモしておく
+
+```         
+library(dplyr)
+
+#列の抽出
+dat <- select(dat0, retu)
+
+#行の抽出
+
+#縦に結合
+dat <- rbind(datA, datB)
+
+#横に結合
+dat <- cbind(datA, datB)
+```
+
 ### トラッキングソフト
 
 -   AnimalTA: <https://doi.org/10.1111/2041-210X.14115>
