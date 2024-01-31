@@ -20,6 +20,6 @@ output:
     df_print: "kable"
     include:
       after_body: footer.html
-      in_header: GA_script.html
+      in_header: google194df5bb25acd8f5.html
     css: site_style.css
 output_dir: "docs"
