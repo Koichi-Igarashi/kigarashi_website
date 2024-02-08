@@ -8,27 +8,29 @@ title: 五十嵐 公一
 
 **学内アドレス**: igapi[at]hokudai.ac.jp
 
-[[GoogleScholar]] [[researchmap]](https://researchmap.jp/igapijie) [[twitter]](https://twitter.com/igapije) [[researchgate]](https://www.researchgate.net/profile/Koichi-Igarashi-3) [[orchid]](https://orcid.org/0000-0002-3537-9239) [[github]](https://github.com/Koichi-Igarashi)
+<a href="https://researchmap.jp/igapijie"> <img src="./images/researchmap130.gif" width="130" height="40"/></a> <a href="https://scholar.google.com/?oi=gsb00&lookup=0&hl=ja"> <img src="./images/google-scholar-square-icon.png" width="41" height="41"/></a> <a href="https://twitter.com/igapije"> <img src="./images/logo-black.png" width="38" height="38"/></a> <a href="https://www.researchgate.net/profile/Koichi-Igarashi-3"> <img src="./images/researchgate.png" width="40" height="40"/></a> <a href="https://orcid.org/0000-0002-3537-9239"> <img src="./images/orcid_logo.png" width="40" height="40"/></a>
 
-**CV** [日本語]/[[English]](https://drive.google.com/file/d/1XdL0A5Qe0u0uUpyLZfPBGsuuAM_cjCgj/view?usp=drive_link)
+**Curriculum Vitae (PDF):** [日本語]/[[English]](https://drive.google.com/file/d/1XdL0A5Qe0u0uUpyLZfPBGsuuAM_cjCgj/view?usp=drive_link)
 
 ### Education
 
 |               |      |                                                           |
-|-------------|-------------|----------------------------------------------|
+|-------------------|-------------------|-----------------------------------|
 | 2019.4-2023.3 | 学士 | 北海道大学 水産学部 海洋生物科学科                        |
 | 2023.4-       | 修士 | 北海道大学 水産科学院 海洋生物資源科学専攻 海洋生物学講座 |
-|               |      |                                                           |
 
 ### Publication
 
 1.  **Igarashi K**, Wada S. Tonic immobility in a marine isopod: the effects of body size, sex and colour morph. Journal of the Marine Biological Association of the United Kingdom. Accepted.
+
 2.  準備中
 
 ### Presentation
 
 1.  **五十嵐公一**・和田哲 " イソへラムシは動かない: 対捕食者行動としての不動行動とその個体間変異パターン" 2022年日本プランクトン学会・日本ベントス学会合同大会，オンライン．2022年9月 (口頭)
+
 2.  **五十嵐公一**・和田哲 "イソへラムシは不動行動で魚類捕食者からの捕食を回避する" 2022年度日本生態学会北海道地区大会，オンライン．2022年12月 (口頭)．**若手研究奨励賞受賞**
+
 3.  **五十嵐公一**・和田哲 "イソへラムシは動かない: 対捕食者行動としての不動行動と複数種の捕食者への反応" 第70回日本生態学会大会，オンライン．2023年3月 (ポスター)．**ポスター賞最優秀賞（行動分野) 受賞**
 
 ### Awards
