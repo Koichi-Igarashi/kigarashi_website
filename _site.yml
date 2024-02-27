@@ -7,7 +7,7 @@ navbar:
     - text: ""
       href: kenkyu.html
   right: 
-    - text: "備忘録"
+    - text: ""
       href: bibouroku.html
 
 output:
