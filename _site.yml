@@ -4,11 +4,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: ""
-      href: kenkyu.html
-  right: 
-    - text: ""
-      href: bibouroku.html
+    - text: "News"
+      href: news.html
+    - text: "Field photo"
+      href: photo.html
 
 output:
   html_document:
