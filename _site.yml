@@ -6,8 +6,7 @@ navbar:
       href: index.html
     - text: "News"
       href: news.html
-    - text: "Field photo"
-      href: photo.html
+
 
 output:
   html_document:

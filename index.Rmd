@@ -6,28 +6,22 @@ title:
 
 北海道大学水産科学院の大学院生・五十嵐公一のWEBサイトです．
 
+
 **個人アドレス**: igapipy[at]gmail.com
 
 **学内アドレス**: igapi[at]eis.hokudai.ac.jp
 
-<a href="https://researchmap.jp/igapijie"> <img src="./images/researchmap130.gif" width="130" height="40"/></a> <a href="https://scholar.google.co.jp/citations?user=AEWO65QAAAAJ&hl=ja&oi=sra"> <img src="./images/google-scholar-square-icon.png" width="41" height="41"/></a> <a href="https://twitter.com/igapije"> <img src="./images/logo-black.png" width="38" height="38"/></a> <a href="https://www.researchgate.net/profile/Koichi-Igarashi-3"> <img src="./images/researchgate.png" width="40" height="40"/></a> <a href="https://orcid.org/0000-0002-3537-9239"> <img src="./images/orcid_logo.png" width="40" height="40"/></a>
+<p><a href="https://researchmap.jp/igapijie"><img src="images/researchmap220.gif" width="130" height="40"/></a><a href="https://scholar.google.co.jp/citations?user=AEWO65QAAAAJ&hl=ja&oi=sra"> <img src="./images/google-scholar-square-icon.png" width="41" height="41"/></a> <a href="https://twitter.com/igapije"> <img src="./images/logo-black.png" width="38" height="38"/></a> <a href="https://www.researchgate.net/profile/Koichi-Igarashi-3"> <img src="./images/researchgate.png" width="40" height="40"/></a> <a href="https://orcid.org/0000-0002-3537-9239"> <img src="./images/orcid_logo.png" width="40" height="40"/></a>
 
 **Curriculum Vitae [[PDF]](https://drive.google.com/file/d/1XdL0A5Qe0u0uUpyLZfPBGsuuAM_cjCgj/view?usp=drive_link)**
 
-### Education
-
-|               |      |                                                           |
-|---------------|------|-----------------------------------------------------------|
-| 2019.4-2023.3 | 学士 | 北海道大学 水産学部 海洋生物科学科                        |
-| 2023.4-       | 修士 | 北海道大学 水産科学院 海洋生物資源科学専攻 海洋生物学講座 |
-
-### Publication
+### Publications
 
 1.  **Igarashi K**, Wada S. Tonic immobility in a marine isopod: the effects of body size, sex and colour morph. Journal of the Marine Biological Association of the United Kingdom. 104, e17. DOI: [10.1017/S0025315424000134](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/tonic-immobility-in-a-marine-isopod-the-effects-of-body-size-sex-and-colour-morph/403A769D47ED406FCF06D1055071F1E5)
 
 2.  準備中
 
-### Presentation
+### Presentations
 
 1.  **五十嵐公一**・和田哲 " イソへラムシは動かない: 対捕食者行動としての不動行動とその個体間変異パターン" 2022年日本プランクトン学会・日本ベントス学会合同大会，オンライン．2022年9月 (口頭)
 
